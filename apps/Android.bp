@@ -1,0 +1,5 @@
+android_app_import {
+        name: "XperiaMusic",
+        apk: "XperiaMusic/XperiaMusic.apk",
+        presigned: true,
+}
